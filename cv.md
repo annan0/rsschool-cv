@@ -25,3 +25,10 @@ HTML
 CSS
 
 SQL
+
+*Work experience:*
+Betsson Group - Software Quality Assurance Specialist
+
+Dolphin Software Ltd - Quality Control Specialist
+
+Bank of Georgia - Help Desk Specialist
